@@ -1,0 +1,16 @@
+Ewolucja i postępy w projekcie zarządzania energią w bolidie słoneczynm Eagle2
+
+- 2016r. założenie projektowe obejmuje zmanę dotychczasowych układów MPPT i ich konfiguracji
+  wybór padł na "super szybkie" MPPT od Nomury
+  
+- pomysł rozdzielenia sekcji paneli na mnijesze partie, co przyśpieszyłoby ustalenie punktu pracy oraz zwiększyło wydajność podczas zmiennych warunków
+- schemat konfiguracji w pliku mppt_config.png
+
+- z uwagi na brak komunikacji CAN układów mppt, czyli brak informacji o przepływnie energii, potrzebna płytka pomiarowa z przsyłem inforamcji do komputera głównego 
+- schemat w pliku measure.pdf
+
+- aby zminimalizować pobór mocy, wagę oraz ilość elementów płytka pomiarowa została połączona ze sterowaniem silników
+- schemat w pliku measureV2.pdf
+
+- 23.03.17 odbiór dwóch testowych MPPT od nomury
+- analiza układu i testy w toku
