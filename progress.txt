@@ -24,3 +24,6 @@ Ewolucja i postępy w projekcie zarządzania energią w bolidie słoneczynm Eagl
 
 - prace nad układami MPPT dobiegają końca 
 - MPPT.png
+
+- dnia 26.04.17 prezentuję projekt na XX Radzie Kół Naukowych 
+- preliminarz w pliku preliminarz-solar-sknmm-lato2017.doc
