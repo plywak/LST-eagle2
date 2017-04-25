@@ -14,3 +14,12 @@ Ewolucja i postępy w projekcie zarządzania energią w bolidie słoneczynm Eagl
 
 - 23.03.17 odbiór dwóch testowych MPPT od nomury
 - analiza układu i testy w toku
+
+- niestety praca została na chwilę wstrzymana z uwagi na przeniesienie koła pod inny instytut (IMP)
+- progres jest widoczny i coraz szybciej zbliżamy się do końca 
+
+- nowa płytak do sterowania silnikami i pomiaru napięć została stworzona 
+- schemat w pliku measureV3.pdf
+
+- prace nad układami MPPT dobiegają końca 
+- MPPT.png
