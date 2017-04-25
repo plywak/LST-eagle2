@@ -20,6 +20,7 @@ Ewolucja i postępy w projekcie zarządzania energią w bolidie słoneczynm Eagl
 
 - nowa płytak do sterowania silnikami i pomiaru napięć została stworzona 
 - schemat w pliku measureV3.pdf
+- PCB w pliku measureV3pcb.pdf
 
 - prace nad układami MPPT dobiegają końca 
 - MPPT.png
